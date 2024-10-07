@@ -6,6 +6,8 @@
 
 An educational tool that makes learning math as easy as playing your favorite game!
 
+<img src="zebra in space3.jpg" alt="zebraspace">
+
 </div>
 
 ## 🎓 For Teachers & Parents
