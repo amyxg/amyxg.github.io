@@ -17,7 +17,7 @@ MathZebra is your personal mathematics companion, designed to make learning and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/amyxg/mathbuddy.git
+git clone https://github.com/amyxg/mathzebra.git
 
 # Navigate to the project directory
 cd mathbuddy
